@@ -56,7 +56,7 @@ notebook==6.0.3
 numba==0.45.1
 numpy==1.16.4
 object-detection==0.1
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 pandas==0.25.1
 pandocfilters==1.4.2
 parso==0.6.2
